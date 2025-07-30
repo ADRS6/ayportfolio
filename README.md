@@ -1,3 +1,11 @@
+## PHASE 1: PLANNING & DESIGN
+
+>>  About Me
+>>  Projects Showcas
+>>  Skills / Tech Stac
+>>  Contact For
+>>  Resume (Downloadable)
+>>  Blogs (Optional)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
