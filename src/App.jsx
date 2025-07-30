@@ -1,5 +1,9 @@
 import React, { useState } from 'react'
 import Navbar from './components/Navbar'
+import Hero from './sections/Hero'
+import About from './sections/About'
+import Skills from './sections/Skills'
+
 
 
 function App() {
@@ -8,9 +12,11 @@ function App() {
   return (
     <>
       <Navbar />
-      <h1 className='text-2xl bg-amber-200 p-4'>Hello Aadarsh Yadav ! Welcome in the personal portfolio website development journey </h1>
-    </>
-  )
+      <Hero />
+      <About />
+      <Skills />
+
+</>)
 }
 
 export default App
