@@ -3,6 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
   <>
+  {/* header navbar start  */}
     <div className='navbar bg-gray-200 font-bold'>
         
         <div className="navbar-links flex justify-between p-4">
@@ -18,7 +19,7 @@ const Navbar = () => {
             </ul>
         </div>
     </div>
-
+  {/* header navbar end */}
   </>)
 }
 
