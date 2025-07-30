@@ -5,7 +5,6 @@ import About from './sections/About'
 import Skills from './sections/Skills'
 
 
-
 function App() {
   const [count, setCount] = useState(0)
 
